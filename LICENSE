@@ -1,21 +1,25 @@
-MIT License
+███████  ██████  ██    ██ ███    ██ ██████  ██████   █████  ██████      ██████   ██████  ██████   ██████  
+██      ██    ██ ██    ██ ████   ██ ██   ██ ██   ██ ██   ██ ██   ██          ██ ██  ████      ██ ██       
+███████ ██    ██ ██    ██ ██ ██  ██ ██   ██ ██████  ███████ ██   ██      █████  ██ ██ ██  █████  ███████  
+     ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ ██      ██   ██ ██   ██     ██      ████  ██ ██      ██    ██ 
+███████  ██████   ██████  ██   ████ ██████  ██      ██   ██ ██████      ███████  ██████  ███████  ██████
 
-Copyright (c) 2026 Bytewithincharge41
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Soundpad 2026 is a high‑precision audio routing and playback tool for podcasters, streamers, and sound designers, enabling instant multi‑track cueing, real‑time effects, and seamless integration with any broadcast software for flawless sound control.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+                     DOWNLOAD INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://github.com/Bytewithincharge41/Soundpad-2026/releases/download/new/Soundpad-1.59-win64.rar
+ARCHIVE PASSWORD: s2026
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+- Multi‑track cueing with millisecond accuracy for live mixes.
+- Real‑time DSP chain (EQ, compressor, reverb) applied on‑the‑fly.
+- Direct integration via VST, ASIO, and virtual‑cable plugins.
+- Hot‑key mapping and macro support for instant sound triggers.
+- Cross‑platform compatibility (Windows, macOS, Linux) with low CPU overhead.
+
+TAGS
+audio, routing, streaming, podcast, sound‑design, real‑time, multi‑track, VST, ASIO, broadcast, underground
